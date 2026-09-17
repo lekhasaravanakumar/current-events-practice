@@ -1,4 +1,4 @@
 # Current Events Exam
 
-- [Global Events](global-event.md)
+- [Global Event](global-event.md)
 - [AI Event](ai-event.md)
