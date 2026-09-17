@@ -2,15 +2,19 @@
 
 Date: September 17, 2026
 
-This event looks at major news from around the world. It shows how local life can change from global events.
+A global event can affect many countries at the same time. It often changes the cost of food, fuel, and travel.
 
-![Illustration of a globe with bright global news colors and simple world map shapes](images/global-event.png)
+![Illustration of a globe with bright colors and a simple world map for a global news page](images/global-event.png)
 
-- World leaders make big decisions
-- Trade and prices can shift
-- Communities adapt to new conditions
+A recent example is a major international conflict affecting trade and safety. People around the world feel the effects even when they are far away.
+
+- Supply chains can slow down
+- Prices may rise for everyday goods
+- Governments may respond with new rules
 
 ```mermaid
 flowchart LR
-A[World news] --> B[Local impact] --> C[New action]
+A[Global event] --> B[World impact] --> C[Local change]
 ```
+
+[Back to README](README.md)

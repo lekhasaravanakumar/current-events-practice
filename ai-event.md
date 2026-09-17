@@ -1,16 +1,20 @@
-# AI Event
+# AI Events
 
 Date: September 17, 2026
 
-This event focuses on new ideas in artificial intelligence. It explains how AI can help people and businesses.
+AI tools are being used in schools, offices, and healthcare. They can save time, but they also need careful use.
 
-![Friendly robot illustration with circuits and bright news-style shapes for an AI page](images/ai-event.png)
+![Friendly robot illustration with bright colors and simple circuit patterns for an AI news page](images/ai-event.png)
 
-- AI tools can speed up work
-- Data and ethics matter
-- People still need to check results
+Some people worry about fake news and privacy when AI creates content. Others see the benefits of faster research and better support.
+
+- AI can help with writing and research
+- Human review is still important
+- Ethics and privacy must be considered
 
 ```mermaid
 flowchart LR
-A[AI idea] --> B[Use case] --> C[Human review]
+A[AI tool] --> B[Useful task] --> C[Human check]
 ```
+
+[Back to README](README.md)
